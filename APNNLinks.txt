@@ -1,0 +1,29 @@
+
+APNN Links
+
+
+vector Autoregression wiki
+https://en.wikipedia.org/wiki/Vector_autoregression
+
+Granger Wiki
+https://en.wikipedia.org/wiki/Granger_causality
+
+Granger paper
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001110
+
+spike detection
+https://github.com/csn-le/wave_clus
+
+var mat lap
+https://www.mathworks.com/help/econ/var-model-case-study.html
+
+data!!!
+https://crcns.org/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632980/
+
+modeling Papers
+https://www.researchgate.net/publication/262931461_Extraction_and_restoration_of_hippocampal_spatial_memories_with_non-linear_dynamical_modeling/figures?lo=1
+
+https://www.researchgate.net/publication/262931461_Extraction_and_restoration_of_hippocampal_spatial_memories_with_non-linear_dynamical_modeling
+
+

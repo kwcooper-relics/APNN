@@ -1,2 +1,4 @@
 # APNN
-Predict future hippocampal activity from past activity
+A neural net to predict future neural activity from the previous activity.
+
+Product of a Brainhack collaberation with Zachary Osborn
